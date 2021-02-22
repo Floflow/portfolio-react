@@ -1,4 +1,7 @@
 import React from "react"
+import Projects from './Projects.js';
+import Contact from './Contact.js';
+
 
 function About(props) {
   return (
